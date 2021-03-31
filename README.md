@@ -1,5 +1,6 @@
 # Money
 Hey, this is the app of Money that i made with React.
-Only you need use expo for start this with npm start and go to the site and prove it
+
+I can't upload the node-modules folder enterely so you only need to copy App.js to your App.js and that's all, if you don't know how create a expo projetct here https://docs.expo.io/get-started/create-a-new-app/
 
 I hope that you like my job, bye
