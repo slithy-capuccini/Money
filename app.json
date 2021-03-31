@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Money",
+    "slug": "Money",
+    "version": "1.0.9",
+    "orientation": "portrait",
+    "icon": "./assets/Money.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "Slithy"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon_true.png"
+    },
+    "description": "A app that take care of your money, or not :)"
+  }
+}
